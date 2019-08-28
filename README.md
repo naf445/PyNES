@@ -12,3 +12,8 @@ I like Python, I like NES games, and I like learning about things, so I decided 
 **Lead Developer:** 
 Nathan Franklin
 
+ToDo:
+
+1. Finish following https://www.youtube.com/watch?v=xFciV6Ew5r4 to set up sublime3 for dev
+
+2. Pick back up at about 46:30 in video 1 for coding
