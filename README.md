@@ -7,6 +7,7 @@ This project was inspired by watching the Youtube/Twitch series by PyAndy about 
 I like Python, I like NES games, and I like learning about things, so I decided to try and code along with Andy and build my own. 
 
 [Link to Video Series](https://www.youtube.com/watch?v=cDINZlKoGcY)
+[Link to Andy's Repository](https://github.com/PyAndy/Py3NES)
 
 **Lead Developer:** 
 Nathan Franklin
